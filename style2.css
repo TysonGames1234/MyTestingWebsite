@@ -1,0 +1,135 @@
+body{
+    background-color:black;
+    }
+    h1{
+        color:white;
+    }
+p{
+    background-color:gray;
+    color:white;
+}
+#p1{
+    color:lightskyblue;
+}
+.odd{
+    color:lightskyblue;
+}
+.even
+    color:lightskyblue;
+
+    #box2{
+        border:5pxs solid;
+        width: 250px;
+        height: 250px;
+        font-size: 22px;
+        background: dodgerblue;
+      }
+
+      #box1{
+        border:5pxs solid;
+        width: 250px;
+        height: 250px;
+        font-size: 22px;
+        background: #f5cd07;
+        /*
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-bottom:50px;
+        margin-right: 50px;
+        margin: 50px;
+      */
+      margin-right: auto;
+      }
+      
+      body{
+        margin:0px
+       }
+      
+       <div id="box1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur cupiditate excepturi in. Magnam quasi perspiciatis, amet omnis animi, ea facilis eaque, deleniti nihil tenetur a. Harum tempora assumenda totam nisi?</div>
+       <div id="box2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quis vitae quidem quas. Natus iure quidem exercitationem reprehenderit aliquam error necessitatibus, velit incidunt libero id dolore reiciendis? Saepe, ratione nulla!</div>
+    
+
+       p{
+        border-style:dashed;
+        border-width: 15px;
+        border-color:orange;
+        border-radius:0px;
+        padding: 5px;
+
+
+    }
+    <div id="box6">
+        <div id="box7"></div>
+            
+        </div>
+        
+        h2{
+            text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+           }
+           h2:hover{
+           box-shadow: 5px 5px 5px white;
+           }
+           
+           <a href="https://www.google.com">Google.com</a>
+           <button>click here</button>
+
+         <h2 style="color: greenyellow;">This is My Website</h2>
+         <img src="Lionking_2003.png" width="300px">
+         <img src="max1114198008-frontback-cover.jpg" width="500px">
+         
+         <head>
+         <title>My Second test Not Safe Website</title>
+         <link rel="stylesheet" href="style.css">
+         <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Press+Start+2P&display=swap" rel="stylesheet">
+         <script src="https://kit.fontawesome.com/aa9b85f15f.js" crossorigin="anonymous"></script>   
+        </head>
+        <body>
+        <h2 style="color: greenyellow;">This is My Website</h2>
+        
+          <i class="fa-solid fa-house"></i>
+          
+          <a href="http://www.twitter.com"> 
+          <i class="fab fa-twitter"></i>
+          
+          <a href="http://www.youtube.com">
+          <i class="fab fa-youtube"></i>
+          
+          <a href="http://www.instagram.com">
+          <i class="fab fa-instagram"></i>
+            </a>
+            
+            .fa-twitter{
+                color:aqua;
+              }
+              .fa-youtube{
+                color:red;
+              }
+              
+              .fa-instagram{
+                color:#feda75;
+              
+              }
+              
+              <!-- float = postitions an element to the 
+              left or right side of a container
+                
+              ex. Popular for Wrapping 
+              elements around images. -->
+              <head>
+               <title>My Second test Not Safe Website</title>
+               <link rel="stylesheet" href="style.css">
+               <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Press+Start+2P&display=swap" rel="stylesheet">
+               <script src="https://kit.fontawesome.com/aa9b85f15f.js" crossorigin="anonymous"></script>   
+              </head>
+              <body>
+              <h2 style="color: greenyellow;">This is My Website</h2>
+              <div id="box6">Hi</div>
+
+              animation-duration: 5s;
+
+              animation: 3s linear 0s infinite running mySlide;
+
+
+
+
+            
